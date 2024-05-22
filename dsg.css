@@ -1,0 +1,96 @@
+body{
+	
+	background-color:#bfc0ee;
+	word-spacing:3px;
+}
+input{
+	width:25%;
+	height:5%;
+	border:1px;
+	padding:8px 15px 8px 15px;
+	border-radius:9px;
+	margin:10px 0px 15px 0px;
+	box-shadow:1px 1px 2px 1px grey;
+	font-size:16;
+	font-weight:bold;
+}
+.d3{
+	width:20%;height:100px; 
+    position:relative;
+    top:5px;
+}
+.heading{
+	width:80%;height:300px;float:left;
+    color:#FF7F50;
+	padding:30px;
+	word-spacing:3px;
+    text-align:center;
+   text-decoration:underline;
+     font-size:40px;
+	letter-spacing:3px;
+	font-family:"Algerian";
+	
+
+	 }
+ 
+.bd{
+	width:100%;height:100%;float:left;
+	letter-spacing:3px;
+	text-align:center;
+	font-family:"Castellar";
+}
+
+.dropbox{
+	padding:12px;
+	border-radius:10px;
+	width:25%;
+	
+}
+
+.lb{
+	padding:10px;
+	width:7%;
+	height:5%;
+	border:1px;
+	border-radius:8px;
+	background-color:blue;
+	color:white;
+}
+.bln{
+	width:2%;
+height:150px; 
+float:left;
+	
+}
+.vot{
+	width:23%;
+    float:left;
+    left:5px;
+    word-spacing:3px;
+    font-size:32px;
+	text-align:left;
+	letter-spacing:3px;
+	background-color:#bbbbd7;
+	font-family:"Castellar";
+	
+}
+
+.contestant{
+	width:75%; float:right;
+	letter-spacing:2px;
+	word-spacing:3px;
+	background-color:#bbbbd7;
+    text-align:center;
+	font-family:"Castellar";
+	
+
+}
+.vb{
+	
+	width:70px;
+	height:5%;
+	border:1px;
+	border-radius:5px;
+	background-color:green;
+	color:white;
+}
